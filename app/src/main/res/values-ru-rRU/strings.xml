@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Прогноз магнитных бурь</string>
+    <string name="appName">Прогноз магнитных бурь</string>
 </resources>
